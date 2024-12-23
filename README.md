@@ -1,6 +1,8 @@
 # NAR25-1
 Website yang dibuat untuk melatih kemampuan NAR 25-1(konsekuensi)
 
+#Test pull
+
 # Technical Requirements
 1. Wajib pakai flask
 2. Harus connect DB, using XAMPP & MySQL
